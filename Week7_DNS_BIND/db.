@@ -1,0 +1,9 @@
+$TTL 3600
+@   IN SOA  ns1.test.local. admin.test.local. (
+        2025110101 ; serial
+        3600
+        900
+        1209600
+        300 )
+@       IN NS  ns1.test.local.
+1       IN PTR server1.test.local.
