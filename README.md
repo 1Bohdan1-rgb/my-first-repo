@@ -56,6 +56,10 @@ Upcoming topics:
 
 ---
 
+---
+
 ## 📫 Connect
-📧 bohdan.zvarych  
-🔗 [LinkedIn](https://linkedin.com/) (add your profile link here)
+
+💼 Bohdan Zvarych  
+🔗 [LinkedIn – Bohdan Zvarych](https://www.linkedin.com/in/bohdan-zvarych-970463361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+📧 bohdan.zvarych
